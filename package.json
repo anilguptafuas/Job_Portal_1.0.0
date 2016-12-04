@@ -1,0 +1,22 @@
+{
+  "name": "first_exercise",
+  "version": "1.0.0",
+  "description": "Job portal with node.js anguler.js and javaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdNabuatAlJahid/Job_Portal_1.0.0.git"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "Md Nabuat Al Jahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MdNabuatAlJahid/Job_Portal_1.0.0/issues"
+  },
+  "homepage": "https://github.com/MdNabuatAlJahid/Job_Portal_1.0.0#readme"
+}
